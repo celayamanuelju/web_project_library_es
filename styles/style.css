@@ -27,12 +27,18 @@
   justify-content: flex-end;
 }
 
-.nav__link {
+.nav__links {
   list-style: none;
   display: flex;
   gap: 25px;
   margin: 0;
   padding: 0;
+}
+.nav__link {
+  font-style: none;
+}
+.nav__logo {
+  font-style: none;
 }
 .header__link {
   font-family: arial, sans-serif;
