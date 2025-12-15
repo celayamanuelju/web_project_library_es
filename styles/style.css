@@ -27,7 +27,7 @@
   justify-content: flex-end;
 }
 
-.nav__links {
+.nav__link {
   list-style: none;
   display: flex;
   gap: 25px;
