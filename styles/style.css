@@ -17,7 +17,7 @@
   align-items: center;
   margin-bottom: 20px;
 }
-.nav__logo {
+.header__logo {
   width: 50px;
   width: 55px;
   margin: 0;
@@ -34,7 +34,7 @@
   margin: 0;
   padding: 0;
 }
-.nav__link {
+.header__link {
   font-family: arial, sans-serif;
   position: relative;
   text-decoration: none;
@@ -45,7 +45,7 @@
   font-weight: bold;
 }
 
-.nav__link:hover {
+.header__link:hover {
   color: #256dbe;
 }
 
@@ -75,7 +75,7 @@
 
 .header__image {
   width: 100%;
-  max-width: 425px;
+  max-width: 636px;
   display: block;
   margin: 40px auto;
 }
