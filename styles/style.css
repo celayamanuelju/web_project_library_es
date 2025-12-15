@@ -17,7 +17,7 @@
   align-items: center;
   margin-bottom: 20px;
 }
-.header__logo {
+.nav__logo {
   width: 50px;
   width: 55px;
   margin: 0;
@@ -27,7 +27,7 @@
   justify-content: flex-end;
 }
 
-.nav__list {
+.nav__links {
   list-style: none;
   display: flex;
   gap: 25px;
