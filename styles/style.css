@@ -1,7 +1,11 @@
+/* ===================== */
+/* ETAPA 1 */
+/* ===================== */
 .page {
   max-width: 1600px;
   margin: 0 auto;
 }
+
 .header {
   display: flex;
   flex-direction: column;
@@ -100,8 +104,10 @@
   color: #838383;
   font-family: arial, sans-serif;
 }
+/* ===================== */
+/* ETAPA 2 */
+/* ===================== */
 
-/* AQUI INICIA EL MAIN  */
 .mainContent {
   background-image: url("../images/staff_picks_background.jpg");
   width: 100%;
@@ -113,8 +119,11 @@
   position: relative;
   z-index: 1;
 }
+.staff {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-/* CARD´S */
 .staff__header {
   text-align: center;
 }
@@ -174,7 +183,6 @@
   font-family: arial, sans-serif;
 }
 
-/* footer del card :V*/
 .card__footer {
   font-size: 15px;
   font-weight: bold;
