@@ -104,11 +104,12 @@
   color: #838383;
   font-family: arial, sans-serif;
 }
+
 /* ===================== */
 /* ETAPA 2 */
 /* ===================== */
 
-.mainContent {
+.content {
   background-image: url("../images/staff_picks_background.jpg");
   width: 100%;
   display: flex;
