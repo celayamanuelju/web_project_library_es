@@ -331,3 +331,128 @@
   margin: 0;
   font-family: arial, sans-serif;
 }
+
+/* ===================== */
+/* ETAPA 4 */
+/* ===================== */
+
+.membership {
+  padding: 100px 0 140px;
+  background-color: #057bf2;
+  color: #ffffff;
+}
+
+.membership__title {
+  font-family: arial, sans-serif;
+  max-width: 574px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 44px;
+  font-weight: 500;
+  line-height: 52px;
+}
+
+.membership__steps {
+  font-family: arial, sans-serif;
+  list-style-type: none;
+  padding: 0;
+  margin: 100px 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.step {
+  width: 220px;
+}
+
+.step__title {
+  margin: 0;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+.step__icon {
+  margin-left: 20px;
+}
+
+.step__description {
+  margin: 10px 0 0;
+}
+
+.footer {
+  padding: 60px 80px;
+  background-color: #222222;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer__columns {
+  display: flex;
+  gap: 80px;
+  justify-content: space-between;
+}
+
+.footer__column_content_hours {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer__logo {
+  width: 58px;
+  height: 80px;
+  margin-bottom: 100px;
+}
+
+.footer__column-heading {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.footer__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer__list-item {
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  font-weight: 20px;
+}
+
+.footer__column-link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer__social-icon {
+  font-size: 16px;
+  font-weight: 16px;
+  color: white;
+  text-decoration: none;
+}
+
+.footer__copyright {
+  margin-top: auto;
+  font-size: 16px;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #888888;
+}
